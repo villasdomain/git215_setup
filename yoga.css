@@ -1,7 +1,7 @@
 :root{
-    --gray: #F5F5F5;
+    --gray: #ec9595;
     --purple: #3F2860;
-    --green: #9BC1C2;
+    --green: #7ca9ab;
     }
     body{
     background-color: var(--gray);

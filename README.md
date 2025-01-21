@@ -1,2 +1,2 @@
 # git215_setup
-## Author: John Villaverde
+## Author: Johnny Villaverde
